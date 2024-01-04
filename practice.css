@@ -23,7 +23,7 @@ input[type="password"]{
 }
 .img{
     height: 500px;
-    background-image: url(../ah.jpg);
+    background-image: url(img/ah.jpg);
     background-repeat: no-repeat;
     /*background-size: cover; */
     background-size: 500px;
