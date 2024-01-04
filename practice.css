@@ -1,0 +1,34 @@
+h3{
+    background-color: brown;
+    text-decoration: overline;
+}
+input[type="password"]{
+    color:crimson;
+}
+#sp{
+    font-size:x-large;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.blog2{
+
+    padding: 20px 300px 40px 50px;
+}
+.blog3{
+
+    padding: 20px 400px 40px;
+}
+.blog5{
+
+    padding: 20px 500px;
+}
+.img{
+    height: 500px;
+    background-image: url(../ah.jpg);
+    background-repeat: no-repeat;
+    /*background-size: cover; */
+    background-size: 500px;
+    background-repeat: repeat-x;
+}
+.blog4{
+    display: none;
+}
